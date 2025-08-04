@@ -16,4 +16,4 @@ GPT-4, Recraft, Canva, Markdown, Notion
 - Spark visual promo banner  
 - Screenshot of a Spark-generated post
 
-**Repo Link**: [https://github.com/YOUR-USERNAME/spark](https://github.com/YOUR-USERNAME/spark)
+**Repo Link**: https://github.com/Zeke142/Spark
