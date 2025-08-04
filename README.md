@@ -17,3 +17,6 @@ GPT-4, Recraft, Canva, Markdown, Notion
 - Screenshot of a Spark-generated post
 
 **Repo Link**: https://github.com/Zeke142/Spark
+
+**Spark**:
+https://github.com/Zeke142/Spark/blob/main/3B4262C4-F8B4-45B1-9B0F-5AB6A71D4B8B.png
